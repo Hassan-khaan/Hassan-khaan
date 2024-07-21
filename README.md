@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hassan-khaan
 - 👀 I’m interested in Ai and Machine Learning.
-- 🌱 I’m currently learning Ai and Python.
+- 🌱 I’m currently learning Ai and Python .
 - 📫 How to reach me hassankhaan09@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bro Forget those who leave You.
